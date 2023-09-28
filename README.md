@@ -11,3 +11,6 @@ DHT22
 DS3231
 
 
+Design prototype will be updated once approved
+
+
