@@ -10,6 +10,8 @@ Motor drivers
 DHT22
 DS3231
 
+Note : Documentation and files upload will be done once approval for open source is granted
+
 
 Design prototype will be updated once approved
 
